@@ -10,7 +10,7 @@ Topics description can be found [here.](https://drive.google.com/open?id=1XpRQRb
 * __Muhammad Maulud Hidayatullah Rambe__ - _Senior Team Member_ - [GitHub](https://github.com/)
 
 ## Additional Note
-Report of the simulation can be seen [here.](https://docs.google.com/document/d/10TvSKRi_3jTD_pwWQhwpTpqqUl-9qzmq7XHo8_T5h7Q/edit?usp=sharing) _*Note: The report is in Indonesian Language_
+Report of the simulation can be seen [here.](https://drive.google.com/open?id=10TvSKRi_3jTD_pwWQhwpTpqqUl-9qzmq7XHo8_T5h7Q) _*Note: The report is in Indonesian Language_
 
 # Running & Testing
 ## How to Run the Simulation
